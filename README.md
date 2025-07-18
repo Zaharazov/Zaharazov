@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Zaharazov)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/zaharazov/)
 
 <!--
 **Zaharazov/Zaharazov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
